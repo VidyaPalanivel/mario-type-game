@@ -1,3 +1,3 @@
 # mario-type-game
 WIP : A super mario type customisable game
-![APIs](https://github.com/VidyaPalanivel/AddressBook-REST-API/blob/develop/AddressBook.png)
+![APIs](https://github.com/VidyaPalanivel/mario-type-game/blob/main/mario.png)
